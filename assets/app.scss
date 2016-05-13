@@ -12,6 +12,13 @@ layout: compress
 
 @import 'vendor/font-awesome/font-awesome';
 
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope);
+body {  font-family: 'Telescope', cursive!important;
+// font-size: 2em
+}
+
+
 @import 'shared/layout';
 @import 'shared/product';
 @import 'shared/yotpo';
@@ -23,4 +30,3 @@ layout: compress
 @import 'pages/favourites';
 @import 'pages/blog';
 @import 'pages/post';
-

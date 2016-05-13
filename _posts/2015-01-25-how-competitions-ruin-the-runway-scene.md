@@ -1,7 +1,7 @@
 ---
 title: How Competitions Ruin the Runway Scene
-author: Max White
-author_image: 'max-white.jpg'
+author: Alelí
+author_image: 'aleli.jpg'
 ---
 
 Vivamus pellentesque, magna a faucibus interdum, mi odio lobortis odio, ut maximus magna eros eu lectus. Etiam volutpat arcu ut turpis mattis dignissim. Curabitur a lectus a ligula commodo pulvinar. Fusce volutpat ipsum urna, in volutpat sapien rutrum sit amet. Quisque a metus tincidunt, pellentesque enim maximus, suscipit erat. Pellentesque a dui erat. Integer ut vulputate augue, ac accumsan diam. Proin eu metus erat. Praesent fermentum, lacus et venenatis pretium, nunc velit tempus mi, id tempus purus est a ante.

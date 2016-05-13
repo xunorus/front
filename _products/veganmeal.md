@@ -1,12 +1,12 @@
 ---
-name: Doble
-price: 280
+name: Desayuno Vegano
+price: 80
 weight: 1.33
 designer:
-type: Multifrutal
+type: Veganos
 condition: Liviano
-image: 'birgerboard-small.jpg'
-big_image: 'birgerboard-big.jpg'
+image: 'comida1.jpg'
+big_image: 'comida1-big.jpg'
 ---
 
 Vestibulum euismod turpis vel purus condimentum ultricies id in ipsum. Donec sit amet lectus ut est commodo fermentum in non tortor. Cras imperdiet et tellus ut hendrerit. Donec efficitur dui in dui auctor sagittis. Curabitur rhoncus elit id enim accumsan rutrum. Nunc porta lobortis nisi, volutpat dictum mauris luctus ac. Praesent ullamcorper rhoncus egestas.

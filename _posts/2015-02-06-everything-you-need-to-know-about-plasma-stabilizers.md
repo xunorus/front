@@ -1,7 +1,7 @@
 ---
-title: Everything You Need to Know About Plasma Stabilizers
-author: Max White
-author_image: 'max-white.jpg'
+title: Todo lo que quieres saber sobre la alimentación vegana
+author: Alelí
+author_image: 'aleli.jpg'
 ---
 
 In dignissim maximus posuere. Fusce vel arcu ante. Morbi lacinia purus diam, egestas facilisis mauris rhoncus vel. Vestibulum pharetra nibh quam, ultricies consequat leo volutpat eget. Phasellus lectus arcu, molestie quis libero consequat, finibus tempus metus. In vulputate erat a arcu faucibus, at ornare est dapibus.

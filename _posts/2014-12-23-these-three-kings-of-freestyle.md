@@ -1,7 +1,7 @@
 ---
-title: These Three Kings of Freestyle
-author: Max White
-author_image: 'max-white.jpg'
+title: Sobre la alimentacion Vegana
+author: Alelí
+author_image: 'aleli.jpg'
 ---
 
 Vivamus mi ex, rutrum nec enim porta, bibendum vulputate nisl. Curabitur nec convallis purus. Fusce vel scelerisque diam, et dignissim risus. Maecenas ut enim et nisi sagittis tempus. Nullam in quam a ex pharetra venenatis. Pellentesque scelerisque mauris eu dui dictum, et vulputate magna sodales. Aenean cursus nisi orci, ut auctor magna vehicula eget. Sed ac urna tristique, facilisis enim sed, convallis quam. Aenean tincidunt sapien nec elit aliquet, sit amet semper erat vehicula. Phasellus non molestie ligula. Ut facilisis lacinia turpis non maximus. Ut convallis purus eget nisl eleifend, at tincidunt quam hendrerit. Fusce at facilisis lorem, quis blandit purus. Etiam non lobortis arcu. Sed sed eros dui. Phasellus scelerisque sem quis dictum tincidunt.

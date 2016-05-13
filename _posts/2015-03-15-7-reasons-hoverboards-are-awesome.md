@@ -1,7 +1,7 @@
 ---
-title: '7 Reasons Hoverboards Are Awesome'
-author: Max White
-author_image: 'max-white.jpg'
+title: '7 motivos para probar un desayuno vegano'
+author: Alelí
+author_image: 'aleli.jpg'
 ---
 
 Duis accumsan sodales massa nec porttitor. Cras facilisis gravida mi in sollicitudin. Proin sem mauris, tincidunt ut viverra at, pretium sit amet lorem. Ut elit lacus, fermentum at feugiat sit amet, pulvinar tempor neque. Fusce ac quam efficitur, hendrerit ligula at, pharetra quam. Vestibulum lobortis posuere dui quis imperdiet. Fusce egestas leo eu condimentum volutpat. Suspendisse sed convallis sem, sed tincidunt arcu. Nulla consectetur iaculis consequat.

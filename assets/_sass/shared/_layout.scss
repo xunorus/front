@@ -1,12 +1,17 @@
 main { @include outer-container; }
 
 li.nav-link.logo {
-  font-size: 1.4em;
+  font-size: 2em;
+ font-family: 'Amatic SC', cursive!important;
+
 }
 
 img.logo {
   max-height: 2.5em;
   opacity: 0.8;
+  // font-size: 12em;
+
+
 }
 
 img#cart {
